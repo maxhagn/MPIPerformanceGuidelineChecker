@@ -64,7 +64,9 @@ In diesem Projekt konnte ich meine Kompetenzen in der C++-Programmierung wesentl
 - [Document Certificate Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering.pdf)
 - [Document Report Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering-report.pdf)
 - [Document Supplement Bachelor Software & Information Engineering](https://files.hagn.network/documents/certificate/bachelor-software-engineering-supplement.pdf)
-- [GitHub Repository](https://github.com/hunsa/reprompi-dev-private)
+- [GitHub Repository MPI Performance Guideline Checker](https://github.com/maxhagn/MPIPerformanceGuidelineChecker)
+- [GitHub Repository PGMPITuneLib](https://github.com/hunsa/pgmpitunelib)
+- [GitHub Repository ReproMPI Benchmark](https://github.com/hunsa/reprompi)
 
 ## Gallery
 
